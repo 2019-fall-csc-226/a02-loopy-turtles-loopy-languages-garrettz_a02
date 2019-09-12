@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Emily Lovell & Scott Heggen              TODO: Change this to your name, if modifying
-# Username: lovelle & heggens                     TODO: Change this to your username, if modifying
+# Author: Zyshavia Garrett
+# Username: garrettz
 #
 
 # Assignment: A02: Exploring Turtles in Python
@@ -20,9 +20,9 @@ wn = turtle.Screen()                    # creates a graphics window
 box_turtle = turtle.Turtle()            # create a turtle named myturtle
 box_turtle.speed(10)
 box_turtle.penup()
-box_turtle.shape('circle')              # possible shapes are 'arrow', 'turtle', 'circle', 'square', 'triangle', 'classic'
+box_turtle.shape('triangle')              # possible shapes are 'arrow', 'turtle', 'circle', 'square', 'triangle', 'classic'
 height = 100
-width = 100
+width = 60
 depth = 15
 
 # All the colors to use; the rows loop will select a color on each iteration
